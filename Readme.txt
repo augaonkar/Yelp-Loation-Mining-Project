@@ -1,13 +1,3 @@
-BIA660 - A
-Final Project - Team 3
-
-Abhilash Ugaonkar
-Darshika Mehta
-Honey Shahi
-Sanketh Batchireddy
-Shivansh Wadhwani
-Vicky Rana
-
 Instructions:	
 	
 1. 'TrainingData.txt' consists of Training data.
